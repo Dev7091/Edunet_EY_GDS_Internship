@@ -15,7 +15,7 @@ The Voting Web Application is a platform developed using the Django framework, a
 
 ## Screenshots
 
-| Screenshot 1 | Screenshot 2 |
+| Column 1 | Column 2 |
 |--------------|--------------|
 | ![Screenshot 1](ss/1.png) | ![Screenshot 2](ss/2.png) |
 | ![Screenshot 3](ss/3.png) | ![Screenshot 4](ss/4.png) |
